@@ -1,4 +1,14 @@
 Link para download do Git:
 https://desktop.github.com/
 
-o Git Bash é um terminal extendido para otimizar o uso do Git
+- o Git Bash é um terminal extendido para otimizar o uso do Git
+
+
+- git clone: passar as informações do GitHub para o PC copiando o linkl
+- cd: entrar em uma pasta
+- git status: verificar situação 
+- git commit -m "xxx": transmitir uma descrição
+- git add .: adicionar todos os arquivos 
+- para incluir do Git Bash para o GitHub: git push origin main
+- 
+- 
