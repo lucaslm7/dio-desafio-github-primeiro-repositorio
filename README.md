@@ -2,7 +2,7 @@
 Repositório criado para o Desafio de projeto Git / GitHub.
 
 ## Links úteis 
-Meu Instagram para contato:
+Instagram para contato:
 
 
 ⬇ ⬇ ⬇
