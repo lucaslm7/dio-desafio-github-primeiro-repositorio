@@ -1,8 +1,10 @@
 # Primeiro projeto para o Git/Hub da DIO
-Repositório criado para Desafio de projeto.
+Repositório criado para o Desafio de projeto Git / GitHub.
 
 ## Links úteis 
-Meu Instagram para contato                                                                                                                                                    
+Meu Instagram para contato:
+
+
 ⬇ ⬇ ⬇
 
 
